@@ -1,0 +1,10 @@
+p {
+    color: rgb(48, 14, 143);
+    font-size: 16px;
+    line-height: 1.5; /* Междустрочный интервал */
+}
+ul {
+    color: rgb(14, 143, 94);
+    font-size: 16px;
+    line-height: 1.5; /* Междустрочный интервал */
+}
