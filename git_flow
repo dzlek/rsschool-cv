@@ -8,3 +8,13 @@
 8. approve from him
 9. merge(better Squash and merge(commits in one))
 10. Remove branch
+=======================
+init
+feat
+fix
+refactor
+test
+docs
+chore
+build
+ci
