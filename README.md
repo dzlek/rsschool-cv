@@ -1,2 +1,2 @@
 # rsschool-cv
-###   some  new changes
+###   some changes
