@@ -1,2 +1,2 @@
 # rsschool-cv
-###   some мм changes
+###   some  changes
