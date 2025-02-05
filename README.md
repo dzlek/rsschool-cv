@@ -1,2 +1,2 @@
 # rsschool-cv
-###   some alt changes
+###   some changes
